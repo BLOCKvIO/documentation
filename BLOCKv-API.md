@@ -1,6 +1,6 @@
 # The BLOCKv API
 
-The API collection for publisher and a wallet app are currently available to participants of our closed beta developer program. The full API will be publicly available with our first release of the BLOCKv platform in Q1/2018.
+The API collection for publisher and a wallet app are currently available to participants of the beta developer program. The full API will be publicly available with the first release of the BLOCKv platform in Q1/2018.
 
 ## BLOCKv Publisher API
 The publisher API describes the endpoints provided by the BLOCKv platform for a vAtom developer or publisher to create vAtom Templates and Template Variation as well as to emit unique vAtoms. It also allows a publisher to configure the Actions for a user to interact with the vAtom such as Transfer, Acquire or Redeem, ect and to define the graphical interface (look&feel) of the vAtom be defining the Faces.
