@@ -4,5 +4,15 @@ BLOCKv, the shared protocol for the blockchain developer stack, represents the i
 
 Digital objects are an increasingly important part of the human experience: from in-game goods, digital cards and art that we collect, to digital books and music, and items we exchange on social networks.
 
-BLOCKv will exponentially increase the value 
-that you get from the digital world.
+## Resources
+
+<ol>
+<li><a href="https://blockv.io">
+Blockv Website</a></li>
+<li><a href="https://blockv.io/documents/whitepaper.pdf">
+White Paper</a></li>
+<li><a href="">
+Step-by-Step: How to create a vAtom</a></li>
+<li><a href="/BLOCKv-API.md">
+BLOCKV API Documentation</a></li>
+</ol>
