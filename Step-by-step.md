@@ -22,7 +22,7 @@ The BLOCKv APIs allow you to create and manipulate vAtoms on the platform. There
 * The BLOCKv Viewer API - this API is typically used by front-end devices that cater to the end-user. The API allows you to build a wallet app, register users, manipulate and view vAtoms, call Actions and interact with other users.
 * The BLOCKv Publisher API - this API is used by vAtom creators (e.g. Advertising Agencies) to create the Templates, Template Variations and vAtoms.
 
-You can find the API documentation at XXX.
+You can find the API documentation [here](/BLOCKv-API.md).
 
 # Publishing vAtoms on Blockchain
 
