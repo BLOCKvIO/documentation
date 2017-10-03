@@ -2,7 +2,7 @@
 
 Our GitHub repository is now up! For the past 2 years we have built out a robust, scaleable platform with a ton of code. In the coming weeks, we will be open-sourcing comprehensive Software Development Kits (SDKs) for different platforms and can’t wait for your contributions! If you scroll down you will find links to our API docs (via Postman) and several other developer documents. 
 
-We hope to foster an active community of developers that are building amazing things by leveraging and contributing to our projects.
+We aim to foster an active community of developers that are building amazing things by leveraging and contributing to our projects.
 
 # BLOCKv - The foundation of the Virtual Goods Economy
 
