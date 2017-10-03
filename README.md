@@ -13,8 +13,8 @@ Blockv Website</a></li>
 White Paper</a></li>
 <li><a href="">
 Technical description of a vAtom (coming soon)</a></li>
-<li><a href="">
-Step-by-Step: How to create a vAtom (coming soon)</a></li>
+<li><a href="/Step-by-step.md">
+Step-by-Step: How to create a vAtom</a></li>
 <li><a href="/BLOCKv-API.md">
 BLOCKV API Documentation</a></li>
 </ol>
