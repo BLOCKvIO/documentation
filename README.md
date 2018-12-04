@@ -17,9 +17,9 @@ Digital objects are an increasingly important part of the human experience: from
 <ol>
 <li><a href="https://blockv.io">
 Blockv Website</a></li>
-<li><a href="https://blockv.io/documents/whitepaper.pdf">
+<li><a href="https://blockv.io/documents/">
 White Paper</a></li>
-<li><a href="">
+<li><a href="https://github.com/BLOCKvIO/documentation/blob/master/BLOCKv-Whitepaper.pdf">
 Technical description of a vAtom (coming soon)</a></li>
 <li><a href="/Step-by-step.md">
 Step-by-Step: How to create a vAtom</a></li>
