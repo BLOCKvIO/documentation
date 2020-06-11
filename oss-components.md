@@ -5,12 +5,12 @@ This list is an overview of all open source components integrated or used as par
 
 |OSS-component                                                       |License             |
 |--------------------------------------------------------------------|--------------------|
-|agentkeepalive                                                      |MIT                 |
-|async                                                               |MIT                 |
+|npm: agentkeepalive                                                 |MIT                 |
+|npm: async                                                          |MIT                 |
 |cloud.google.com/go                                                 |Apache-2.0          |
 |cloud.google.com/go/compute/metadata                                |Apache-2.0          |
 |firebase.google.com/go                                              |Apache-2.0          |
-|forever                                                             |MIT                 |
+|npm: forever                                                        |MIT                 |
 |github.com/aristanetworks/goarista/monotime                         |Apache-2.0          |
 |github.com/aws/aws-sdk-go                                           |Apache-2.0          |
 |github.com/aws/aws-sdk-go/internal/sync/singleflight                |BSD-3-Clause        |
@@ -163,24 +163,24 @@ This list is an overview of all open source components integrated or used as par
 |gopkg.in/redis.v5                                                   |BSD-2-Clause        |
 |gopkg.in/rethinkdb/rethinkdb-go.v6                                  |Apache-2.0          |
 |gopkg.in/yaml.v2                                                    |Apache-2.0          |
-|got                                                                 |MIT                 |
+|npm: got                                                            |MIT                 |
 |go.uber.org/atomic                                                  |MIT                 |
-|jshint                                                              |(MIT                |
-|jsonwebtoken                                                        |MIT                 |
+|npm: jshint                                                         |(MIT                |
+|npm: jsonwebtoken                                                   |MIT                 |
 |k8s.io/api                                                          |Apache-2.0          |
 |k8s.io/apiextensions-apiserver/pkg                                  |Apache-2.0          |
 |k8s.io/apimachinery                                                 |Apache-2.0          |
 |k8s.io/client-go                                                    |Apache-2.0          |
-|lodash                                                              |MIT                 |
-|moleculer-middleware-permissions                                    |MIT                 |
-|moleculer                                                           |MIT                 |
-|moleculer-prometheus                                                |MIT                 |
-|moleculer-web                                                       |MIT                 |
-|mysql                                                               |MIT                 |
-|nats                                                                |Apache-2.0          |
-|path                                                                |MIT                 |
-|redis                                                               |MIT                 |
-|redlock                                                             |MIT                 |
-|snyk                                                                |Apache-2.0          |
-|uuid4                                                               |ISC                 |
-|yoti                                                                |MIT                 |
+|npm: lodash                                                         |MIT                 |
+|npm: moleculer-middleware-permissions                               |MIT                 |
+|npm: moleculer                                                      |MIT                 |
+|npm: moleculer-prometheus                                           |MIT                 |
+|npm: moleculer-web                                                  |MIT                 |
+|npm: mysql                                                          |MIT                 |
+|npm: nats                                                           |Apache-2.0          |
+|npm: path                                                           |MIT                 |
+|npm: redis                                                          |MIT                 |
+|npm: redlock                                                        |MIT                 |
+|npm: snyk                                                           |Apache-2.0          |
+|npm: uuid4                                                          |ISC                 |
+|npm: yoti                                                           |MIT                 |
