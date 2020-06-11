@@ -2,6 +2,7 @@
 
 
 This list is an overview of all open source components integrated or used as part of the BLOCKv platform.
+It only includes first-level dependencies, and not sub-dependencies of included OSS components.
 
 |OSS-component                                                       |License             |
 |--------------------------------------------------------------------|--------------------|
